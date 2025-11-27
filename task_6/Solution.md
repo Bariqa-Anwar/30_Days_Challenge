@@ -20,5 +20,5 @@ The token is set directly in `.gemini/settings.json`
 
 ## repositories listed
 
-1[repo-list](repo-list.png)   
+![repo-list](repo-list.png)   
 
