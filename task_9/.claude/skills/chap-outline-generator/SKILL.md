@@ -1,8 +1,6 @@
 ---
 name: chapter-outline-generator
 description: Generates detailed chapter outlines for books, including key scenes, plot progression, character arcs, and themes. Use this when planning book structure or expanding story ideas.
-Chapter Outline Generator Instructions.   
-
 ---
 
 # Instructions
